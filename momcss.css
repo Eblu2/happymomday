@@ -1,0 +1,38 @@
+
+
+body {
+  margin: 0;
+  font-family: 'Helvetica', sans-serif;
+  color: #888;
+  line-height: 1.5;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+header {
+  margin: 60px 0 20px 0;
+  color: pink;
+  background-color: silver;
+  text-align: center;
+}
+
+h1 {
+	color:pink;
+}
+
+
+hr {
+  border: 1px solid #eee;
+  margin: 30px 0;
+}
+
+#slideshow img {
+  height:  700px;
+  max-width: 80%;
+  background-color: powderblue;
+}
+
+#slideshow #next {
+  float: center;
+}
+
